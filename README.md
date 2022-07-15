@@ -1,1 +1,0 @@
-# scissor-paper-rock-game-python-
